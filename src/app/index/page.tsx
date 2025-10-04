@@ -18,7 +18,7 @@ export default function HomePage() {
         
         <div className="space-y-6">
           <Link 
-            href="/game"
+            href="/"
             onMouseEnter={() => setIsHovered(true)}
             onMouseLeave={() => setIsHovered(false)}
           >
